@@ -1,0 +1,19 @@
+{
+  "name": "smartcase",
+  "version": "1.0.0",
+  "description": "Reto bintec 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilmerA/Hackaton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilmerA/Hackaton/issues"
+  },
+  "homepage": "https://github.com/WilmerA/Hackaton#readme"
+}
