@@ -2,10 +2,11 @@
   "name": "smartcase",
   "version": "1.0.0",
   "description": "Reto bintec 2023",
-  "main": "index.js",
+  "main": "dist/app.js",
   "type": "module",
   "scripts": {
-    "start": "tsc && node app.js",
+    "watch": "tsc --watch",
+    "start": "nodemon dist/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,5 +24,8 @@
     "langchain": "^0.0.153",
     "tslint": "^6.1.3",
     "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
