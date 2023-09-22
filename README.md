@@ -7,13 +7,17 @@ Reto Bientec 2023
 Para levantar el ambiente de desarollo se deben ejecutar los siguientes comandos.
 
 Para instalar dependencias.
+
 npm install
 
 Para transpilar codigo de Typescript a Javascript y dejar escuchando los cambios
+
 npm run watch
 
 Para correr cambios y dejar escuchando los mismo
+
 npm run start
+
 
 ### Configurar ENV
 
